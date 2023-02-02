@@ -1,0 +1,68 @@
+{
+  "Products": [{
+    
+     "id":"1",
+      "price": "hh",
+      "categorie": "hh",
+      "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.boots.com%2Fbeauty%2Fmakeup%2Flips%2Flipsticks&psig=AOvVaw0UBBCTqbhtU3LqCxKn5Pr3&ust=1674900238585000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPio6d6_5_wCFQAAAAAdAAAAABAE",
+      "description": "hh"
+     , "quantity":"1"
+    }
+  ,
+  {
+    
+    "id":"2",
+     "price": "1",
+     "categories": "chaveaux",
+     "image": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.boots.com%2Fbeauty%2Fmakeup%2Flips%2Flipsticks&psig=AOvVaw0UBBCTqbhtU3LqCxKn5Pr3&ust=1674900238585000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPio6d6_5_wCFQAAAAAdAAAAABAE",
+     "description": "hh"
+    , "quantity":"1"
+   }
+   , {
+    
+    "id":"2",
+    "name":"lipstick",
+     "price": "200",
+     "categories": "chaveaux",
+     "image":"url=https%3A%2F%2Fwww.boots.com%2Fbeauty%2Fmakeup%2Flips%2Flipsticks&psig=AOvVaw0UBBCTqbhtU3LqCxKn5Pr3&ust=1674900238585000&source=images&cd=vfe&ved=0CA8QjRxqFwoTCPio6d6_5_wCFQAAAAAdAAAAABAE",
+     "description": "hh",
+     "quantity":"1"
+   },
+   {
+   "id":"3",
+   "price": "1",
+   "categories": "chaveaux",
+   "image":"assets/1.jpg",
+   "description": "hh",
+   "quantity":"1"
+  
+  },
+  {
+ "id":"4",
+ "price": "1",
+ "categories": "chaveaux",
+ "image": "https://rukminim1.flixcart.com/image/416/416/k2jbyq80pkrrdj/mobile-refurbished/k/y/d/iphone-11-256-u-mwm82hn-a-apple-0-original-imafkg25mhaztxns.jpeg?q=70",
+ "description": "hh",
+ "quantity":"1"
+  }
+
+ ],
+ 
+  "cart":[
+    
+  ],
+  "categories":[{
+    "cheveaux":"chaveaux",
+    "visage":"visage",
+    "corp":"corp",
+    "parfum":"parfum"
+    
+    
+    }]
+ 
+}
+ 
+ 
+  
+
+ 
